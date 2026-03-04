@@ -146,7 +146,7 @@ This project demonstrates:
 
 ------------------------------------------------------------
 
-# Screenshots / Demos
-[Dasboard Preview](https://github.com/RishiAnalytics/ITC-Financial-Model/blob/main/Snapshot%20of%20the%20Report.png)
+  Screenshots / Demos
+![Dasboard Preview](https://github.com/RishiAnalytics/ITC-Financial-Model/blob/main/Snapshot%20of%20the%20Report.png)
 
 ------------------------------------------------------------
